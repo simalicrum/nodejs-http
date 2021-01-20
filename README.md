@@ -1,3 +1,3 @@
 # nodejs-http
 
-A simple exercise to implement a http server using NodeJS http and fs modules.
+A simple http server using NodeJS http and fs modules.
